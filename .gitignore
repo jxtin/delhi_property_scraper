@@ -1,0 +1,5 @@
+__pycache__/
+localities.json
+*.exe
+.env
+flattened_data.csv
