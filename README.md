@@ -17,6 +17,11 @@ NOTES :
 
 
 
+## Results 
+### Scraped Data
+The scraped data is stored in the scraped_data folder, each locality has a separate csv file, the file name is the locality name, with spaces replaced by underscores, and all characters converted to lowercase. (Note : the scraped data is not made public for obvious reasons.)
+
+
 ## How to run locally
 add a .env file with the following variables
 ```
